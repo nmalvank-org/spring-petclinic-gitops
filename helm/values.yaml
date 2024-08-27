@@ -2,5 +2,5 @@ petclinic:
   # This image tag can be automatically updated by invoking the workflow
   # included in this repository 
   image: quay-lzh25.apps.cluster-lzh25.sandbox662.opentlc.com/nmalvankar/spring-petclinic
-  tag: latest 
+  tag: ed157f51c4986ce0af7fe0ce333cbd1ff1c65693
   replicas: 1
